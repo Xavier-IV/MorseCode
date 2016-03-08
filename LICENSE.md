@@ -1,5 +1,5 @@
 
-Copyright (c) 2016, Xavier-IV-Windows
+Copyright (c) 2016, Mohamad Zafranudin Zafrin @ Xavier-IV
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
