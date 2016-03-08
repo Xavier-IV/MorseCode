@@ -6,8 +6,8 @@ I am still new to Arduino, so any suggestions to improve the code is appreciated
 
 ## Project Detail
 
-*Connect an LED to the GND and ~9 port.
-*Upload the code into the Arduino IDE.
+* Connect an LED to the GND and ~9 port.
+* Upload the code into the Arduino IDE.
 
 ## Morse Code Translator
 
