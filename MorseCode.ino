@@ -1,15 +1,9 @@
-/*
- Fade
-
- This example shows how to fade an LED on pin 9
- using the analogWrite() function.
-
- This example code is in the public domain.
+/*@Author - Mohamad Zafranudin Zafrin @ Xavier -IV
+ *@Copyright 2016 MorseCode
+ *
  */
 
 int led = 9;           // the pin that the LED is attached to
-int brightness = 0;    // how bright the LED is
-int fadeAmount = 5;    // how many points to fade the LED by
 
 // the setup routine runs once when you press reset:
 void setup() {
@@ -23,7 +17,8 @@ void loop() {
 }
 
 void helloMorse(){
-  //....  .  .-..  .-..  ---
+  //....  .  .-..  .-..  --- [H E L L O Morse code]
+
   //H
   digitalWrite(led, HIGH);   
   delay(200);              
